@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+october 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+this project analyses us bikeshare data based on interaction with the user. User defines: city, month and day. Program calculates descriptive statistics based on that data.
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new york city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+credits to uncle google and Udacity team!
 
