@@ -13,5 +13,4 @@ washington.csv
 new york city.csv
 
 ### Credits
-credits to uncle google and Udacity team!
-
+credits to my girlfriend (for inspiration), uncle Google and Udacity team for content and requirements!!
