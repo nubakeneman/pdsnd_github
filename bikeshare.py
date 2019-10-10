@@ -183,8 +183,8 @@ def user_stats(df):
         last_hire = last_hire.astype(int)
         print('Most recent customer\'s date of birth is: ', last_hire)
         #most common
-        mc_dob = df['Birth Year'].mode()[0]
-        mc_dob = mc_dob.astype(int)
+        mc_dob = df['Birth Year'].mode()[0].astype(int)
+        
         print('Most common year of birth is: ', mc_dob)
     
     print("\nThis took %s seconds." % (time.time() - start_time))
