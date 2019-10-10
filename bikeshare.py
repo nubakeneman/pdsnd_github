@@ -174,9 +174,8 @@ def user_stats(df):
         print(df['Gender'].value_counts())
 
         # TO DO: Display earliest, most recent, and most common year of birth
-        earliest = df['Birth Year'].min()
-        earliest = earliest.astype(int)
-        
+        earliest = df['Birth Year'].min().astype(int)
+                
         print('Earliest year of birth is: ', earliest)
 
         #most recent : first get by .loc, strip to get value only, then convert to integer
